@@ -71,7 +71,10 @@
       <span class="header_pt1">
         <b>archaeology.link</b>&nbsp;&nbsp;<img
           src="https://raw.githubusercontent.com/archaeolink-lod/unicorn-ontdoc-template-nmt/main/icons/al_circle_icon.png"
-          style="height: 40px !important; margin-right: 10px" />{{datasettitle}}&nbsp;|&nbsp;
+          style="
+            height: 40px !important;
+            margin-right: 10px;
+          " />{{datasettitle}}&nbsp;|&nbsp;
         <i
           >powered by Leibniz-Zentrum für Archäologie (LEIZA), Department of
           Scientific IT</i
@@ -82,7 +85,7 @@
       <script>
         if (window.location.href.includes("index.html")) {
           document.write(
-            '<h1 id="title"><img src="{{logo}}"/>{{toptitle}}<span style="font-size: 16px;font-weight: 300;font-style: italic;">EN</span></h1>'
+            '<h1 id="title"><img src="{{logo}}" width="25" height="25"/>{{toptitle}}<span style="font-size: 16px;font-weight: 300;font-style: italic;">EN</span></h1>'
           );
         } else {
           document.write(
