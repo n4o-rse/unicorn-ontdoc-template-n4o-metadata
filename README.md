@@ -1,1 +1,1 @@
-# unicorn-ontdoc-template-archaeolink
+# unicorn-ontdoc-template-squirrels
