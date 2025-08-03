@@ -6,7 +6,7 @@ html {
   padding: 0;
 }
 body {
-  font-family: 'PT Sans', sans-serif !important;
+  font-family: "PT Sans", sans-serif !important;
   font-size: 80%;
   margin: 0;
   padding: 1.2em 2em;
@@ -17,7 +17,7 @@ body {
   top: -28px;
 }
 #header {
-  border-bottom: 2px solid #004c54;
+  border-bottom: 2px solid #cfc5ba;
   margin: 0 0 1.2em;
   padding: 0 0 0.3em;
   margin-top: 60px;
@@ -27,7 +27,7 @@ body {
   float: left;
   height: 50px;
   margin-bottom: 20px;
-  background: linear-gradient(to right, #004c54, #0190a1);
+  background: linear-gradient(to right, #cfc5ba, #eeeae0);
   width: calc(100% + 0px);
   position: fixed;
   top: 0;
@@ -62,9 +62,9 @@ body {
 #footer {
   float: left;
   height: 90px;
-  background-color: rgba(226, 226, 226, 0.9);
+  background-color: #eeeae0;
   width: calc(100% + 66px);
-  color: black;
+  color: #13294b;
   margin-left: -40px;
 }
 .carousel-center {
@@ -180,15 +180,15 @@ h2 {
 }
 #title {
   font-size: 36px;
-  font-family: 'PT Sans', sans-serif !important;
-  color: #004c54 !important;
+  font-family: "PT Sans", sans-serif !important;
+  color: #13294b !important;
   font-weight: 600;
   margin-left: 10px;
 }
 #titletwo {
   font-size: 20px;
-  font-family: 'PT Sans', sans-serif !important;
-  color: #004c54 !important;
+  font-family: "PT Sans", sans-serif !important;
+  color: #13294b !important;
   font-weight: 300;
   text-decoration: underline;
   margin-left: 10px;
@@ -197,7 +197,7 @@ body {
   background: #ffffff;
 }
 table.description .container > td {
-  background: #004c54 !important;
+  background: #13294b !important;
   padding: 0.2em 0.8em;
 }
 table.description .even td {
@@ -227,7 +227,7 @@ a.expander {
   border-left: 3px solid #f0fcf0;
   border-bottom: 3px solid #f0fcf0;
   border-right: 3px solid #f0fcf0;
-  background: #004c54;
+  background: #13294b;
   border-top: 0px solid none;
   margin: 0px;
 }
@@ -236,7 +236,7 @@ a.expander {
   padding: 3px;
 }
 body {
-  font-family: 'PT Sans', sans-serif !important;
+  font-family: "PT Sans", sans-serif !important;
 }
 
 .sidenav {
@@ -286,6 +286,6 @@ body {
 }
 
 .ui-widget {
-  font-family: 'PT Sans', sans-serif !important;
+  font-family: "PT Sans", sans-serif !important;
   padding-bottom: 10px;
 }
