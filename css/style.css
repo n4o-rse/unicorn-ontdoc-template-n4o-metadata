@@ -1,12 +1,12 @@
 @charset "utf-8";
-@import url(https://fonts.bunny.net/css?family=fira-sans:200,300,400,500,600,700,800,900);
+@import url(https://fonts.bunny.net/css?family=pt-sans:400,400i,700,700i);
 
 html {
   margin: 0;
   padding: 0;
 }
 body {
-  font-family: "Fira Sans", sans-serif !important;
+  font-family: 'PT Sans', sans-serif !important;
   font-size: 80%;
   margin: 0;
   padding: 1.2em 2em;
@@ -180,14 +180,14 @@ h2 {
 }
 #title {
   font-size: 36px;
-  font-family: "Fira Sans", sans-serif !important;
+  font-family: 'PT Sans', sans-serif !important;
   color: #004c54 !important;
   font-weight: 600;
   margin-left: 10px;
 }
 #titletwo {
   font-size: 20px;
-  font-family: "Fira Sans", sans-serif !important;
+  font-family: 'PT Sans', sans-serif !important;
   color: #004c54 !important;
   font-weight: 300;
   text-decoration: underline;
@@ -236,7 +236,7 @@ a.expander {
   padding: 3px;
 }
 body {
-  font-family: "Fira Sans", sans-serif;
+  font-family: 'PT Sans', sans-serif !important;
 }
 
 .sidenav {
@@ -286,6 +286,6 @@ body {
 }
 
 .ui-widget {
-  font-family: "Fira Sans", sans-serif !important;
+  font-family: 'PT Sans', sans-serif !important;
   padding-bottom: 10px;
 }
